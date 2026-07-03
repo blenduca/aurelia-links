@@ -261,16 +261,16 @@ export default function App() {
 
       {/* ── Banner Cards ───────────────────────────────────────────────────── */}
       <div className="flex flex-col items-center gap-6 w-full max-w-[916px] px-4 mt-8">
-        <BannerCard 
-          href="https://clinicafinanceira.com.br" 
+        <BannerCard
+          href="https://www.aureliamoroni.com.br/"
           image={image_Banner___1}
         />
-        <BannerCard 
-          href="https://diagnosticofinanceiro.com.br" 
+        <BannerCard
+          href="https://api.whatsapp.com/send/?phone=5514996968005&text&type=phone_number&app_absent=0"
           image={image_Banner___2}
         />
-        <BannerCard 
-          href="https://mentoriammd.com.br" 
+        <BannerCard
+          href=""
           image={image_Banner___3}
         />
       </div>
@@ -284,16 +284,13 @@ export default function App() {
         transition={{ duration: 0.5, ease: "easeOut" }}
       >
         <div className="flex items-center gap-4">
-          <SocialButton href="https://instagram.com">
+          <SocialButton href="https://www.instagram.com/aurelia__cm/">
             <InstagramIcon />
           </SocialButton>
-          <SocialButton href="https://linkedin.com">
+          <SocialButton href="https://www.linkedin.com/in/aur%C3%A9lia-carrilho-moroni-b598743b8/">
             <LinkedInIcon />
           </SocialButton>
-          <SocialButton href="https://youtube.com">
-            <YouTubeIcon />
-          </SocialButton>
-          <SocialButton href="https://facebook.com">
+          <SocialButton href="https://www.facebook.com/aurelia.carrilho.moroni?locale=pt_BR">
             <FacebookIcon />
           </SocialButton>
         </div>
