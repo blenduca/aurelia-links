@@ -270,7 +270,7 @@ export default function App() {
           image={image_Banner___2}
         />
         <BannerCard
-          href=""
+          href="https://chat.whatsapp.com/JcvVXtLVnNP0EUuFBeStGE?s=cl&p=a&ilr=1&utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQPOTM2NjE5NzQzMzkyNDU5AAGnE4rApdVaoeR5CvdZ95lfk2rbzE6-VkEOAAPmZnJdndHjeVCno9H_8MhWH0E_aem_ZvACNaOMg5ghJLcqNDci-A"
           image={image_Banner___3}
         />
       </div>
@@ -289,9 +289,6 @@ export default function App() {
           </SocialButton>
           <SocialButton href="https://www.linkedin.com/in/aur%C3%A9lia-carrilho-moroni-b598743b8/">
             <LinkedInIcon />
-          </SocialButton>
-          <SocialButton href="https://www.facebook.com/aurelia.carrilho.moroni?locale=pt_BR">
-            <FacebookIcon />
           </SocialButton>
         </div>
         <p
