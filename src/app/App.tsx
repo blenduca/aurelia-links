@@ -270,7 +270,7 @@ export default function App() {
           image={image_Banner___2}
         />
         <BannerCard
-          href="https://chat.whatsapp.com/JcvVXtLVnNP0EUuFBeStGE?s=cl&p=a&ilr=1&utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQPOTM2NjE5NzQzMzkyNDU5AAGnE4rApdVaoeR5CvdZ95lfk2rbzE6-VkEOAAPmZnJdndHjeVCno9H_8MhWH0E_aem_ZvACNaOMg5ghJLcqNDci-A"
+          href="https://chat.whatsapp.com/GvM1ouaWkTCIiap015jv4t"
           image={image_Banner___3}
         />
       </div>
